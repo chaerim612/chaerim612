@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Chaerim612&fontSize=90)
 
   <br />
-  <br />
 
   <h3> Hi 👋, &nbsp;&nbsp;I'm Back-end Developer </h3>
 
@@ -37,5 +36,5 @@
   
   <h4>⚡ Blog ⚡</h4>
   <a href='https://velog.io/@hwangcl612'><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a>
-  
+  <br>
 </div>
