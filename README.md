@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Chaerim612&fontSize=90)
 
-  <br />
 
   <h3> Hi 👋, &nbsp;&nbsp;I'm Back-end Developer </h3>
 
